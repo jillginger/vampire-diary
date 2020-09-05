@@ -4,4 +4,8 @@
 
 2020-09-04
 1. upload data dictionary to REDCap - types does not allow "paragraph", so I deleted it.
+2. Errors still occurred after deleting "paragraph". It turned out that there were some format existing even the cells looked empty. Errors fixed by copying real empty cells and pasted on the cells that used to have "paragraph".
+3. Data dictionary was successfully uploaded.
+4. The changes of the data dictionary were not in effect. I found it out because there were some issues with the EPIC questionnaire, and I fixed it, but when I uploaded more information about
+EPIC, there occurred errors.
 
