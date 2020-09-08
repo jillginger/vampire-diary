@@ -13,3 +13,4 @@ EPIC, there occurred errors.
 Welcome back from Labor Day!
 1. checked if data dictionary is taken effect - no. (9:46 am)
 2. Added "su_004" to the dataset I last sent to Henry and sent it to Henry.
+3. Fixed EPIC22-EPIC26 values for the "hand corrected" observations based on the new, correct data dictionary. For these variables, the value labels used to be 1-4 indicating no problem to big problem. Fixed them as 1-4.
