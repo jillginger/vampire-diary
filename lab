@@ -17,6 +17,8 @@ Welcome back from Labor Day!
 
 2020-09-09
 1. Uploaded all updated data of RAC5 to REDCap.
+Issued: the .dta file downloded seemed to shift the value to the left by one cell, on the right of certain variables. Dunno why it happened because it's generated automatically
+by running the do file I got from REDCap. Fixed the issue by exporting a csv dataset from REDCap then copied and pasted to STATA.
 
 2020-09-15
 1. Double checked the updated dataset.
