@@ -25,3 +25,6 @@ by running the do file I got from REDCap. Fixed the issue by exporting a csv dat
 Details: Exported the updated dataset to local, then compare it to the local dataset.
 Issues: 1. used Python df1!=df2.sum(), showed numerous unequal data. However, when I opened the two csv respectively, the data value that shown different on the Python notebook
 seemed to be equal.
+
+2020-10-15
+1. Created a markdown file with detailed explanation of the stata do file
