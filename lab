@@ -28,3 +28,7 @@ seemed to be equal.
 
 2020-10-15
 1. Created a markdown file with detailed explanation of the stata do file
+
+2021-04-06
+Haven't taken this diary n months!
+1. Continue to conduct the DIF for Uveal Pro. A issue left from yesterday is the error "all arguments must have the same length". Realized that there might be missing value within the columns of items of intest.
